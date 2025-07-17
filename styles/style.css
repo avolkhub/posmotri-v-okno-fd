@@ -136,7 +136,7 @@ ol {
     font-weight: 400;
     font-size: 18px;
     text-align: left;
-    line-height: 22px;
+    line-height: 23px;
     margin-bottom: 7px;
     padding: 0;
 }
@@ -276,7 +276,6 @@ label:has(input:focus-visible) {
     width: 19px;
     height: 19px;
     border: 1px solid currentColor;
-    margin-right: 5px;
     cursor: pointer;
 }
 
